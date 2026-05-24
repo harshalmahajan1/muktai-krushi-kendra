@@ -5,7 +5,7 @@ Route
 } from "react-router-dom"
 
 import Navbar from "./components/Navbar"
-import WhatsappButton from "./components/Whatsappbutton"
+import WhatsappButton from "./components/WhatsappButton"
 
 import Home from "./pages/Home"
 import Products from "./pages/Products"
